@@ -5,7 +5,6 @@
 ## Strings
 
 `string1 = "Hello World!"`
-
 `string_new_2 = """Multi quote "string" to use"""`
 
 
